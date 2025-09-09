@@ -1,0 +1,1 @@
+Hi my name is Donaldson and this blog is mines!
