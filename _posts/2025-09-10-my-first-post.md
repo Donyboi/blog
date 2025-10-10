@@ -1,5 +1,5 @@
 this is my first blog post on my blog!
 
-get ready for greatness
+a blog about summer 
 
 <img src="/blog/images/gomba2.jpeg" alt="Picture">
