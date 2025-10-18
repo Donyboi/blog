@@ -15,7 +15,7 @@ I started my day with some homemade pancakes straight from the pan then headed s
 **Midday**
 After a relaxing morning, I took the D train to chinatown because whats summer with out porkbuns.
 I went to my local chinese shop and bought me some porkbuns.
-<img src="/blog/images/bridge.png" alt="picture" width="500 length=250">
+<img src="/blog/images/chinatown.png" alt="picture" width="500 length=250">
  Then i walked around beford ave, popping my head into vintage shops and checking out some amazing food. Every corner feels like a new adventure.
 
 **Evening**
