@@ -9,5 +9,6 @@ Brooklyn is full of funny peole and       undiscoverd neighborhood with storys t
 
 I started my day with some homemade pancakes straight from the pan then headed straight into prospect park. Its my favorite place to stil and enjoying the scenery, the lake, duck island and dog musicians under the bridge. I even checked out the boat house for the first time.
 <img src="/blog/images/bridge.png" alt="picture" width="500 length=250">
- **Brooklyn Tip**
+ 
+ **•Brooklyn Tip**
  Bring a bike or renting a citibike is the best way to travel around prospect
