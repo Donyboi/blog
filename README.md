@@ -1,2 +1,2 @@
 # blog
-![Banner](./images/newyork.jpeg)
+![picture](./images/newyork.jpeg)
