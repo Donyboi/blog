@@ -21,5 +21,8 @@ I went to my local chinese shop and bought me some porkbuns.
 **Evening**
 When the lights came on, I took a slow walk along the sunset park area. You can’t beat the city skyline at night — it makes you fall in love with New York all over again.
 
+
 **reflecting**
 This day reminded me that adventure isn’t just in faraway places. Sometimes it’s right here — between your favorite deli and the edge of a waterfront park. Brooklyn has a rhythm of its own, and I’m glad I took the time this summer to slow down and really experience it.
+
+<img src="/blog/images/sunset.png" alt="picture" width="500 length=250">
