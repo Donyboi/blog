@@ -9,3 +9,11 @@ Hi my name is Donaldson and this blog is mines!
     </li>
   {% endfor %}
 </ul>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
