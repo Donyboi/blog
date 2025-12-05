@@ -1,3 +1,9 @@
+- - -
+layout = post
+- - -
+
+
+
 **A blog about summer**
 
 <span style="color:MediumSlateBlue;">This summer, i decided to get away from the laziness inside me and decied to explore nyc. While people rush to tropical beaches or fly overseas, i found just as much enjoyment right here in the city.
