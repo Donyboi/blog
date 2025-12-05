@@ -1,5 +1,5 @@
+<ul>
 {% for post in site.posts %}
-
-<a href="{{ post.url | relative_url }}">{{ post.title }} </a>
-
+<li> <a href="{{ post.url | relative_url }}">{{ post.title }} </a> </li>
 {% endfor %}
+</ul>
