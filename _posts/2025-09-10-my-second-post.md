@@ -60,7 +60,7 @@ for num in range(1, n):
 ---
 
 ## Factorial Function  
-The factorial program stopped too early because the loop didn’t include the final number. On top of that, the print statement broke when trying to mix strings and integers. Expanding the loop and using an f‑string made the program calculate factorials correctly.  
+The factorial program stopped too early because the loop didn’t include the final number. On top of that, the print statement broke when trying to mix strings and integers. Expanding the loop and using a f‑string made the program calculate factorials correctly.  
 
 ```python
 num = int(input("Enter an integer: "))
@@ -79,7 +79,7 @@ else:
 ---
 
 ## Password Attempts  
-The password checker was comparing against the wrong string, which made it impossible to log in. It also didn’t stop after three tries, so you could keep guessing forever. Fixing the condition and adding a limit made it behave like a real login system.  
+The password checker  didn’t stop after three tries, so you could keep guessing forever. to fix the problem you had to add a `>=` to `if attempts > 3:` which made it work the right way.  
 
 ```python
 attempts = 0
