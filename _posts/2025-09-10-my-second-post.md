@@ -9,20 +9,14 @@ Debugging can feel frustrating at first, but it’s really just solving small pu
 ## Temperature Check  
 The temperature program didn’t know what to do with numbers between 0 and 50, so it skipped them entirely. That left a gap where the program gave no answer, which made it incomplete. Changing the last `elif` to `else` fixed the issue and covered all cases.  
 
-```python
-temperature = 75
-
-if temperature > 80:
-    print("It's hot")
-elif temperature > 50:
-    print("It's temperate")
-elif temperature < 0:
-    print("It's cold")
+<img src="/blog/images/temp.png" alt="picture" width="500 length=250 ">
 
 ---
 
 ## Counting Spaces  
 The space counter was broken because it was checking for an empty string instead of a space. That meant the loop never actually counted anything, even though spaces were there. Switching the condition to `if char == " "` made the program work correctly.  
+
+<img src="/blog/images/text.png" alt="picture" width="500 length=250 ">
 
 ---
 
