@@ -17,7 +17,7 @@ if temperature > 80:
 elif temperature > 50:
     print("It's temperate")
 elif temperature < 0:
-    print("It's cold")
+    print("It's cold")```
 ---
 
 ## Counting Spaces  
