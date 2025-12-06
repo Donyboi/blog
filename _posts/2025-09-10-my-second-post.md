@@ -23,15 +23,21 @@ The space counter was broken because it was checking for an empty string instead
 ## Even or Odd  
 The even‑odd program had two problems: the input wasn’t converted to an integer, and the condition was wrong. Without fixing those, the program couldn’t do math or check numbers properly. Using `int(input())` and `num % 2 == 0` solved both issues.  
 
+<img src="/blog/images/number.png" alt="picture" width="500 length=250">
+
 ---
 
 ## Factorial Function  
 The factorial program stopped too early because the loop didn’t include the final number. On top of that, the print statement broke when trying to mix strings and integers. Expanding the loop and using an f‑string made the program calculate factorials correctly.  
 
+<img src="/blog/images/integer.png" alt="picture" width="500 length=250">
+
 ---
 
 ## Password Attempts  
 The password checker was comparing against the wrong string, which made it impossible to log in. It also didn’t stop after three tries, so you could keep guessing forever. Fixing the condition and adding a limit made it behave like a real login system.  
+
+<img src="/blog/images/attempts.png" alt="picture" width="500 length=250">
 
 ---
 
