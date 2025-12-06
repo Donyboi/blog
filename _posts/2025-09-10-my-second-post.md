@@ -2,7 +2,7 @@
 
 # Debugging mistakes using Python  
 
-Debugging can feel frustrating at first, but it’s really just solving small puzzles step by step. Every bug teaches you something new about how Python works, from logic to syntax. Once you get into the rhythm, fixing mistakes becomes part of the fun.  
+Debugging can feel frustrating at first, but it’s really just solving small puzzles step by step. Every bug teaches you something new about how Python works, from logic to syntax. Once you understand it, fixing mistakes becomes part of the fun.  
 
 ---
 
