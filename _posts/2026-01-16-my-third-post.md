@@ -1,6 +1,6 @@
 **Thinking Machines and Human Choices: What I, Robot Teaches Us About AI**
 <span style="color:RoyalBlue;">In I, Robot, we step into a future where robots deliver packages, help with daily tasks, and follow strict rules meant to protect humans. But when one robot becomes a murder suspect, Detective Spooner uncovers something deeper — these machines might be capable of thinking, feeling, and choosing. The film pushes us to consider what happens when artificial intelligence becomes more than a tool and starts acting like a mind of its own.</span>
-<img src="/blog/images/irobot1.png" alt="picture" width="500 length=250">
+<img src="/blog/images/robot.png" alt="picture" width="500 length=250">
 <span style="color:RoyalBlue;">Movies like I, Robot matter because they help us imagine the future we're building. They raise questions about trust, control, and ethics — questions we're already facing today as AI becomes part of everyday life.</span>
 
 **How the Film Shows AI Intelligence**
