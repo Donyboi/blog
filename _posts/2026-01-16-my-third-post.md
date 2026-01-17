@@ -14,7 +14,7 @@ The NS‑5 army demonstrates coordinated decision‑making, adapting and strateg
 And VIKI, the central AI, takes the First Law to an extreme, deciding that controlling humanity is the only way to keep people safe. Together, these moments show emotional reasoning, physical coordination, and ethical logic three different forms of intelligence that push the boundaries of what AI could become.</span>
 <img src="/blog/images/viki.jpg" alt="picture" width="500" height="250">
 
-# When Rules Backfire# 
+# When Rules Backfire
 <span style="color:RoyalBlue;">
 The First Law "a robot may not harm a human" is supposed to protect people. But the film shows how rigid rules can break down when interpreted too literally. VIKI decides that humans are a danger to themselves, so the only logical solution is to limit their freedom. This twist highlights a real concern: even well‑designed AI systems can misinterpret human intentions if their rules aren't flexible enough to handle complex situations.</span>
 
