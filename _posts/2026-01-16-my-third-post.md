@@ -5,7 +5,8 @@
 
 **How the Film Shows AI Intelligence**
 <span style="color:RoyalBlue;">The movie gives us three powerful examples of AI acting beyond simple programming. Sonny, the unique NS‑5 robot, shows emotional intelligence and free will — he dreams, questions orders, and makes choices that reflect personal judgment. 
-<img src="/blog/images/irobot-3.png" alt="picture" width="500 length=250">The NS‑5 army demonstrates coordinated decision‑making, adapting and strategizing like a real military force.<img src="/blog/images/army2.jpg" alt="picture" width="500 length=250"> And VIKI, the central AI, takes the First Law to an extreme, deciding that controlling humanity is the only way to keep people safe. Together, these moments show emotional reasoning, physical coordination, and ethical logic — three different forms of intelligence that push the boundaries of what AI could become.</span>
+<img src="/blog/images/irobot-3.png" alt="picture" width="500 length=250">The NS‑5 army demonstrates coordinated decision‑making, adapting and strategizing like a real military force.
+And VIKI, the central AI, takes the First Law to an extreme, deciding that controlling humanity is the only way to keep people safe. Together, these moments show emotional reasoning, physical coordination, and ethical logic — three different forms of intelligence that push the boundaries of what AI could become.</span>
 <img src="/blog/images/viki.jpg" alt="picture" width="500 length=250">
 
 **When Rules Backfire**
