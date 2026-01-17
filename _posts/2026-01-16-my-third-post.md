@@ -20,7 +20,7 @@ And VIKI, the central AI, takes the First Law to an extreme, deciding that contr
 
 **Final Thoughts: What I, Robot Leaves Us With**
 <span style="color:RoyalBlue;">I, Robot made me think more deeply about what AI could become. Intelligence isn't just about processing data it's about understanding, choosing, and sometimes challenging the rules. The film raises real concerns about trust, control, and ethics, all of which matter today as AI continues to grow. Media like this helps us imagine the future and reminds us that the choices we make now will shape the world we live in tomorrow.</span>
-<img src="/blog/images/irobot2.png" alt="picture" width="500" height="250">
+<img src="/blog/images/meme.png" alt="picture" width="500" height="250">
 
 **Extra Questions to Think About**
 <span style="color:RoyalBlue;">How does human bias shape the AI we build? Who is responsible when AI causes harm the creators, the system, or society? How do we balance safety with freedom? And what happens if AI develops emotions like Sonny does that make it more relatable or more unpredictable? These questions connect the film's ideas to real‑world AI systems like facial recognition, predictive policing, and automated hiring, reminding us that the future of AI depends on the choices we make today.</span>
