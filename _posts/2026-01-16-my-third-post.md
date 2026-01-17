@@ -1,12 +1,16 @@
 **Thinking Machines and Human Choices: What I, Robot Teaches Us About AI**
-<span style="color:RoyalBlue;">In I, Robot, we step into a future where robots deliver packages, help with daily tasks, and follow strict rules meant to protect humans. But when one robot becomes a murder suspect, Detective Spooner uncovers something deeper these machines might be capable of thinking, feeling, and choosing. The film pushes us to consider what happens when artificial intelligence becomes more than a tool and starts acting like a mind of its own.</span>
+<span style="color:RoyalBlue;">
+In I, Robot, we step into a future where robots deliver packages, help with daily tasks, and follow strict rules meant to protect humans. But when one robot becomes a murder suspect, Detective Spooner uncovers something deeper these machines might be capable of thinking, feeling, and choosing. The film pushes us to consider what happens when artificial intelligence becomes more than a tool and starts acting like a mind of its own.</span>
 <img src="/blog/images/robot.png" alt="picture" width="500" height="250">
-<span style="color:RoyalBlue;">Movies like I, Robot matter because they help us imagine the future we're building. They raise questions about trust, control, and ethics questions we're already facing today as AI becomes part of everyday life.</span>
+
+<span style="color:RoyalBlue;">
+Movies like I, Robot matter because they help us imagine the future we're building. They raise questions about trust, control, and ethics questions we're already facing today as AI becomes part of everyday life.</span>
 
 **How the Film Shows AI Intelligence**
 <span style="color:RoyalBlue;">
 The movie gives us three powerful examples of AI acting beyond simple programming. Sonny, the unique NS‑5 robot, shows emotional intelligence and free will he dreams, questions orders, and makes choices that reflect personal judgment. 
-<img src="/blog/images/irobot-3.png" alt="picture" width="500" height="250">The NS‑5 army demonstrates coordinated decision‑making, adapting and strategizing like a real military force.
+<img src="/blog/images/irobot-3.png" alt="picture" width="500" height="250">
+The NS‑5 army demonstrates coordinated decision‑making, adapting and strategizing like a real military force.
 And VIKI, the central AI, takes the First Law to an extreme, deciding that controlling humanity is the only way to keep people safe. Together, these moments show emotional reasoning, physical coordination, and ethical logic three different forms of intelligence that push the boundaries of what AI could become.</span>
 <img src="/blog/images/viki.jpg" alt="picture" width="500" height="250">
 
